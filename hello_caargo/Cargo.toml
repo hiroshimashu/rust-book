@@ -1,0 +1,6 @@
+[package]
+name = "hello_caargo"
+version = "0.1.0"
+authors = ["Hiroshi Imamasu <hiroshimashu@gmail.com>"]
+
+[dependencies]
